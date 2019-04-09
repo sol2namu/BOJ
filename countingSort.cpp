@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
 int arr[100];
-
 void countingSort(){
 	const int k = 1000;
 	int count[k + 1];
