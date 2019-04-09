@@ -20,7 +20,6 @@ int partition(int first, int last){
 	arr[p] = tmp;
 	return r;
 }
-
 void quickSort(int first, int last){
 	if (first < last){
 		int p = partition(first, last);
