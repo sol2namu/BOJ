@@ -35,7 +35,7 @@ int main() {
 		}
 		
 	}
-
+	
 	if (cycle) cout << -1 << '\n';
 	else {
 		for (int i = 2; i <= n; i++) {
